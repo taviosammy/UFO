@@ -23,5 +23,5 @@ Observe the the change in the Data table once you hit enter.
 
 # Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development. 
 
-The project overall works as intended.  Areas of improvement are being able to enter input regardless of capitalization, access to a dynamic database that can grow and 
-real-time filtering without the need to hit enter.
+The project overall works as intended. An area of improvement is being able to enter input regardless of capitalization.  Access to a dynamic database that can grow and 
+real-time filtering without the need to hit enter are oportunities to further enhance the webpage's offering.
