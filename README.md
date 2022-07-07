@@ -13,7 +13,7 @@ There placeholder examples to give an idea of what the inpu tshould look like.  
 
 ![image](https://user-images.githubusercontent.com/99847046/174430738-26fcb20e-63c3-4c3d-9f82-b8645001cfff.png)
 
-Observe the the change in the Data table once you hit enter.
+Observe the the change in the Data table once you hit enter/ click anywhere on the page.
 
 ![image](https://user-images.githubusercontent.com/99847046/174430758-e2c3366f-4d5c-496d-a1b2-9a131a9ae19a.png)
 
@@ -23,5 +23,4 @@ Observe the the change in the Data table once you hit enter.
 
 # Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development. 
 
-The project overall works as intended. An area of improvement is being able to enter input regardless of capitalization.  Access to a dynamic database that can grow and 
-real-time filtering without the need to hit enter are oportunities to further enhance the webpage's offering.
+The project overall works as intended. An area of improvement is being able to enter input regardless of capitalization.  Also currently the inputs have to match exactly with the variable to return results.  For Example, typing 'Lon' the city search bar will return 0 results, but typing 'london (canada)' will return 1 result. 
