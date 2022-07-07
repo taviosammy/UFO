@@ -9,11 +9,11 @@ The process starts by identifying the input boxes to the left of the page.
 
 ![image](https://user-images.githubusercontent.com/99847046/174430700-02cf7ccc-3f7f-42ea-b5f8-5e74df304650.png)
 
-There placeholder examples to give an idea of what the inpu tshould look like.  You can enter more than one input to filter the table.
+There are placeholder examples to guide users on what the inputs should look like.  You can enter more than one input to filter the table.
 
 ![image](https://user-images.githubusercontent.com/99847046/174430738-26fcb20e-63c3-4c3d-9f82-b8645001cfff.png)
 
-Observe the the change in the Data table once you hit enter/ click anywhere on the page.
+Observe the change in the Data table once you hit enter/ click anywhere on the page.
 
 ![image](https://user-images.githubusercontent.com/99847046/174430758-e2c3366f-4d5c-496d-a1b2-9a131a9ae19a.png)
 
@@ -23,4 +23,4 @@ Observe the the change in the Data table once you hit enter/ click anywhere on t
 
 # Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development. 
 
-The project overall works as intended. An area of improvement is being able to enter input regardless of capitalization.  Also currently the inputs have to match exactly with the variable to return results.  For Example, typing 'Lon' the city search bar will return 0 results, but typing 'london (canada)' will return 1 result. 
+The project overall works as intended. An area of improvement is being able to enter input regardless of capitalization.  Also currently the inputs have to match exactly with the data values to return results.  For Example, typing 'lon' in the city search bar will return 0 results, but typing 'london (canada)' will return 1 result. 
